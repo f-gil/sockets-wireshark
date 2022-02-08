@@ -52,3 +52,17 @@ Ao encontrar o pacote no Wireshark, você terá uma demonstração de quão fác
 Para facilitar o entendimento incluímos abaixo um gif com todo o procedimento, desde o run do servidor até o rastreio com o Wireshark:
 
 ![client.py](https://github.com/f-gil/sockets-wireshark/blob/main/img/execucao.gif)
+
+## ✒️ Autores
+
+* *Fabio Gil Gomes* - [f-gil](https://github.com/f-gil)
+* *Amanda Marques*  - [amandamqs](https://github.com/amandamqs)
+* *Beatriz Dellatorre* - [BeaDella](https://github.com/BeaDella)
+
+
+## 🎁 Expressões de gratidão
+
+Agradecemos ao prof. Flávio Seixas por nos acompanhar nesse projeto incrível e acreditar na gente, 
+mesmo na hora de apresentar um trabalho repleto de erros, 
+porém com muita dedicação e esforço envolvidos em sua construção. 
+Após um semestre tão intenso e trabalhoso não teríamos conseguido concluir sem esse incentivo.
